@@ -34,7 +34,3 @@ python Ass1_Tsk2.py
 ```
 
 ---
-
-## Author
-
-[Your Name Here]
